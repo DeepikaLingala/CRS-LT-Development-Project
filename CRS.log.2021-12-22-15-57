@@ -1,0 +1,5 @@
+2021-12-22 15:57:10,379 [main] INFO  (CRSApplication.java:85) -  Login Process Initaited
+2021-12-22 15:57:15,614 [main] DEBUG (LoginValidation.java:93) - com.mysql.jdbc.JDBC4Connection@5b80350b
+2021-12-22 15:57:22,623 [main] INFO  (CRSApplication.java:85) -  Login Process Initaited
+2021-12-22 15:57:24,243 [main] DEBUG (LoginValidation.java:93) - com.mysql.jdbc.JDBC4Connection@5b80350b
+2021-12-22 15:57:44,353 [main] INFO  (CRSApplication.java:142) - Thank you, Have a nice day!
